@@ -9,4 +9,4 @@ Mariah CSV file JSON files
 
 
 
-Both did Web tokens GET Post
+Both did Web tokens GET and Post
