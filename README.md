@@ -1,4 +1,4 @@
-# MIDTERM
+
 BY Will Pond and Mariah Gault
 Donut midterm Project
 
