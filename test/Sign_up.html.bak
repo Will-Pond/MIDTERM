@@ -54,8 +54,7 @@
 			
 			
 		axios.post('http://localhost:3001/Sign_up.html', {firstname, lastname, email, password }).then(response => {
-			console.log('Sign-up successfully:', response.data.jwt);
-				localStorage.setItem('token', response.data.jwt);
+			console.log("Sign-in successfully");
 			alert('you are sign-up!');
 			}).catch(error => console.error('Error sign-up:', error));
 		});

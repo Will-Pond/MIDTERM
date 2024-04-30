@@ -15,7 +15,7 @@
 		
 		<div class="container mt-5" id="shopCardsContainer">
 			<button type="button" class="btn btn-warning" data-toggle="modal" data-target="#addDonutShopModal" name="add" >Add Donut Shop</button>
-			<a id ="account" href ="Sign_in.html" class="btn btn-dark mb-2">account</a>
+			<button id ="account" href ="Sign_in.html" class="btn btn-dark mb-2">account</button>
 			<ul id="list" class="list-group"></ul>
 		</div>
 		<div class="modal fade" id="addDonutShopModal" tabindex="-1" role="dialog" aria-labelledby="addDonutShopModal" aria-hidden="true">
